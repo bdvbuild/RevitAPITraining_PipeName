@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Doc\RevitApi\RevitAPITraining_PipeName.dll"</Assembly>
+		<AddInId>A1762387-031F-4BB1-B3CD-D1FE5ED8AB8F</AddInId>
+		<FullClassName>RevitAPITraining_PipeName.Main</FullClassName>
+		<VendorId>bdvbuild</VendorId>
+		<Text>3.4 Создание параметра "Наименование" для труб</Text>
+	</AddIn>
+</RevitAddIns>
